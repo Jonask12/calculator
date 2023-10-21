@@ -1,0 +1,51 @@
+body {
+  background: rgb(143, 114, 250);
+}
+
+button {
+  width: 3em;
+  height: 3em;
+  border: none;
+  font-size: 1.5em;
+  border-radius: 2em;
+  margin: 0.3em;
+  cursor: pointer;
+}
+
+.wrapper {
+  background: black;
+  border-radius: 1em;
+  padding: 1em;
+}
+
+.orange {
+  background: #FF9500;
+  color: white;
+}
+
+.gray {
+  background: #505050;
+  color: white;
+}
+
+.equals {
+  width: 6.5em;
+}
+
+.result {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 1em;
+  font-size: 3em;
+  color: white;
+}
+
+.history {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 1em;
+  font-size: 1em;
+  color: white;
+}
+
+
